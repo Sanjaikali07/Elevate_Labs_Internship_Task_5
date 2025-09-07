@@ -1,7 +1,4 @@
-# Elevate_Labs_Internship_Task_5
-Elevate Labs Internship Task 5
-
-**Task 5: Capture and Analyze Network Traffic Using Wireshark**
+# Capture and Analyze Network Traffic Using Wireshark
 
 **Date:** 30 June 2025
 
@@ -61,4 +58,4 @@ To perform a live network traffic capture using Wireshark and identify at least 
 
 **Sanjai K**
 
-Elevate Labs Intern | Aspiring Penetration Tester
+Aspiring Penetration Tester
